@@ -1,0 +1,17 @@
+{
+  "total_hold_time": 7.966666666666648,
+  "total_holds": 1,
+  "avg_hold": 7.933333333333315,
+  "avg_angle": 178.2017364501953,
+  "consistency": 100.0,
+  "percent_good": 100.0,
+  "overall_score": 100.0,
+  "holds": [
+    {
+      "start": 0.03333333333333333,
+      "end": 7.966666666666648,
+      "duration": 7.933333333333315,
+      "avg_angle": 178.2017364501953
+    }
+  ]
+}

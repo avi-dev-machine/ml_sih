@@ -1,0 +1,25 @@
+{
+  "total_jumps": 4,
+  "session_duration": 10.564940214157104,
+  "avg_rate_jumps_per_min": 22.716645351044967,
+  "avg_jump_duration_sec": 1.6866871515909831,
+  "consistency_score": 99.20177110446927,
+  "jumps": [
+    {
+      "end_time": 4.4711315631866455,
+      "duration": 4.4711315631866455
+    },
+    {
+      "end_time": 6.150235414505005,
+      "duration": 1.6791038513183594
+    },
+    {
+      "end_time": 7.855839490890503,
+      "duration": 1.705604076385498
+    },
+    {
+      "end_time": 9.531193017959595,
+      "duration": 1.6753535270690918
+    }
+  ]
+}
